@@ -19,7 +19,7 @@ Cette traduction est basée sur l'add-on original **UCP v4.1 - French Add-On v1.
 
 3. **Installer la traduction française**  
    Télécharger directement le fichier brut (raw) :  
-   [Télécharger en raw](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/olzi/French%20Translation/UCP%20v5.0.4%20Patch_French%20v1.0.txt)  
+   [Télécharger en raw](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/olzi/French%20Translation/UCP%205.0.4%20Community%20Patch%20-%20French/UCP%20v5.0.4%20Patch_French%20v1.0.txt)  
    Place ce fichier dans :  
    ```
    C:\Program Files (x86)\Steam\steamapps\common\Borderlands 2\Binaries\
